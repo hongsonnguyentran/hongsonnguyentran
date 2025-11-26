@@ -20,7 +20,7 @@
 ###
 - 📝 Portfolio: coming soon...
 - 📬 How to reach me: hongson530.dev@gmail.com  
-- 📚 Currently improving **DSA**, **Spring Boot**, and exploring **Python** for DeOps understanding.
+- 📚 Currently improving **DSA**, **Spring Boot**, and exploring **Python** for DevOps understanding.
 - ☁️ Interested in **Backend Java, Microservices, and Cloud**.
 - 🚀 Building personal projects to grow skills and seek internship/junior role.
   
