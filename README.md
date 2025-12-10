@@ -1,29 +1,9 @@
-
-
-###
-
-<h1 align="center">Hi👋, I'm Hong Son </h1>
+<h1>Hi👋, I'm Sage </h1>
 
 ###
 
-<h3 align="center">Aspiring Backend Java developer, growing skills through side projects, open to internship or junior roles.</h3>
+<h3>Currently learning and practicing Python through personal projects and open-source contribution.</h3>
 
-###
-
-<div align="center">
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=shongon-be.shongon-be&"  /> -->
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hongsonnguyentran/)
-  [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hongson530.dev@gmail.com) 
-</div>
-
-###
-- 📝 Portfolio: coming soon...
-- 📬 How to reach me: hongson530.dev@gmail.com  
-- 📚 Currently improving **DSA**, **Spring Boot**, and exploring **Python** for DevOps understanding.
-- ☁️ Interested in **Backend Java, Microservices, and Cloud**.
-- 🚀 Building personal projects to grow skills and seek internship/junior role.
-  
 ###
 
 <h3 align="left"> 💻 Tech Stack: </h3>
@@ -51,15 +31,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
   <img width="12" />
-  <!-- <img src="https://skillicons.dev/icons?i=elasticsearch" height="60" alt="elasticsearch logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
   <img width="12" />
@@ -76,7 +50,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hongsonnguyentran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hongsonnguyentran&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=hongsonnguyentran&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=hongsonnguyentran&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 ###
